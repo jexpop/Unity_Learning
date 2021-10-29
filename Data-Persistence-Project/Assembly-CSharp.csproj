@@ -55,10 +55,10 @@
   <ItemGroup>
     <Compile Include="Assets\Scripts\Paddle.cs" />
     <Compile Include="Assets\Scripts\MainManager.cs" />
+    <Compile Include="Assets\Scripts\NameManager.cs" />
     <Compile Include="Assets\Scripts\Ball.cs" />
     <Compile Include="Assets\Scripts\DeathZone.cs" />
     <Compile Include="Assets\Scripts\Brick.cs" />
-    <Compile Include="Assets\Scripts\NameManager.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\TextMesh Pro\Shaders\TMPro.cginc" />
